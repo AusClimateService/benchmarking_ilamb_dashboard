@@ -1,0 +1,10 @@
+[INFO][0][<module>] Linux gadi-cpu-clx-0037.gadi.nci.org.au 4.18.0-553.8.1.el8.nci.x86_64 #1 SMP Mon Jul 15 03:00:19 UTC 2024 x86_64 x86_64
+[INFO][0][<module>] /home/599/bxn599/.local/lib/python3.9/site-packages/ILAMB (2.6)
+[INFO][0][<module>] /g/data/hh5/public/apps/miniconda3/envs/analysis3-22.07/lib/python3.9/site-packages/numpy (1.23.5)
+[INFO][0][<module>] /g/data/hh5/public/apps/miniconda3/envs/analysis3-22.07/lib/python3.9/site-packages/matplotlib (3.5.3)
+[INFO][0][<module>] /g/data/hh5/public/apps/miniconda3/envs/analysis3-22.07/lib/python3.9/site-packages/netCDF4 (1.6.0)
+[INFO][0][<module>] /g/data/hh5/public/apps/miniconda3/envs/analysis3-22.07/lib/python3.9/site-packages/cf_units (3.1.1)
+[INFO][0][<module>] /g/data/hh5/public/apps/miniconda3/envs/analysis3-22.07/lib/python3.9/site-packages/sympy (1.11.1)
+[INFO][0][<module>] /g/data/hh5/public/apps/miniconda3/envs/analysis3-22.07/lib/python3.9/site-packages/mpi4py (3.1.4)
+[INFO][0][<module>] 2024-09-07 19:06:53.465717
+[INFO][0][<module>][total time] 32.8 s

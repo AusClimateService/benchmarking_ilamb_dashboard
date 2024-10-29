@@ -1,0 +1,1714 @@
+Checking CCAM_CESM2 on processor 3 (total = 2)
+Checking NARCliM2_NorESM2-MM_R3 on processor 9 (total = 2)
+Checking CCAM_NorESM2-MM on processor 11 (total = 2)
+Checking QldFCP2_ACCESS-ESM1-5_r6 on processor 13 (total = 2)
+Checking NARCliM2_ACCESS-ESM1-5_R5 on processor 15 (total = 1)
+Checking QldFCP2_EC-Earth3 on processor 17 (total = 1)
+Checking NARCliM2_EC-Earth3-Veg_R3 on processor 19 (total = 1)
+Checking QldFCP2_MRI-ESM2-0 on processor 23 (total = 1)
+Checking NARCliM2_NorESM2-MM_R5 on processor 0 (total = 2)
+Checking NARCliM2_EC-Earth3-Veg_R5 on processor 1 (total = 2)
+Checking NARCliM2_ACCESS-ESM1-5_R3 on processor 2 (total = 2)
+Checking BARPA_EC-Earth3 on processor 4 (total = 2)
+Checking NARCliM2_UKESM1-0-LL_R3 on processor 5 (total = 2)
+Checking NARCliM2_MPI-ESM1-2-HR_R3 on processor 6 (total = 2)
+Checking CCAM_CNRM-ESM2-1 on processor 7 (total = 2)
+Checking QldFCP2_CMCC-ESM2 on processor 8 (total = 2)
+Checking QldFCP2_ACCESS-CM2 on processor 10 (total = 2)
+Checking CCAM_ACCESS-ESM1-5 on processor 12 (total = 2)
+Checking QldFCP2_FGOALS-g3 on processor 14 (total = 2)
+Checking QldFCP2_GFDL-ESM4 on processor 16 (total = 1)
+Checking QldFCP2_CNRM-CM6-1-HR_oc on processor 18 (total = 1)
+Checking CCAM_ACCESS-CM2 on processor 21 (total = 1)
+Checking NARCliM2_UKESM1-0-LL_R5 on processor 22 (total = 1)
+Checking BARPA_ACCESS-CM2 on processor 20 (total = 1)
+Checking QldFCP2_MPI-ESM1-2-LR on processor 11 (total = 2)
+Checking QldFCP2_GISS-E2-1-G on processor 4 (total = 2)
+Complete: processor 20
+Complete: processor 21
+Checking BARPA_CMCC-ESM2 on processor 12 (total = 2)
+Checking NARCliM2_MPI-ESM1-2-HR_R5 on processor 3 (total = 2)
+Complete: processor 22
+Checking BARPA_CESM2 on processor 5 (total = 2)
+Checking QldFCP2_ACCESS-ESM1-5_oc_r20 on processor 13 (total = 2)
+Checking QldFCP2_CNRM-CM6-1-HR on processor 7 (total = 2)
+Complete: processor 23
+Complete: processor 16
+Checking CCAM_EC-Earth3 on processor 8 (total = 2)
+Complete: processor 17
+Checking QldFCP2_ACCESS-ESM1-5_oc_r40 on processor 6 (total = 2)
+Complete: processor 19
+Complete: processor 18
+Checking QldFCP2_NorESM2-MM on processor 14 (total = 2)
+Checking BARPA_NorESM2-MM on processor 10 (total = 2)
+Complete: processor 12
+Checking QldFCP2_NorESM2-MM_oc on processor 0 (total = 2)
+Complete: processor 11
+Checking CCAM_CMCC-ESM2 on processor 9 (total = 2)
+Complete: processor 15
+Complete: processor 4
+Complete: processor 5
+Checking BARPA_MPI-ESM1-2-HR on processor 2 (total = 2)
+Checking BARPA_ACCESS-ESM1-5 on processor 1 (total = 2)
+Complete: processor 8
+Complete: processor 10
+Complete: processor 7
+Complete: processor 14
+Complete: processor 3
+Complete: processor 9
+Complete: processor 13
+Complete: processor 2
+Complete: processor 6
+Complete: processor 1
+Complete: processor 0
+Checking QldFCP2_CMCC-ESM2 on processor 8 (total = 2)
+Checking NARCliM2_NorESM2-MM_R3 on processor 9 (total = 2)
+Checking QldFCP2_ACCESS-CM2 on processor 10 (total = 2)
+Checking CCAM_NorESM2-MM on processor 11 (total = 2)
+Checking QldFCP2_FGOALS-g3 on processor 14 (total = 2)
+Checking QldFCP2_ACCESS-ESM1-5_r6 on processor 13 (total = 2)
+Checking QldFCP2_CNRM-CM6-1-HR_oc on processor 18 (total = 1)
+Checking CCAM_CNRM-ESM2-1 on processor 7 (total = 2)
+Checking CCAM_ACCESS-ESM1-5 on processor 12 (total = 2)
+Checking NARCliM2_ACCESS-ESM1-5_R5 on processor 15 (total = 1)
+Checking QldFCP2_GFDL-ESM4 on processor 16 (total = 1)
+Checking QldFCP2_EC-Earth3 on processor 17 (total = 1)
+Checking NARCliM2_EC-Earth3-Veg_R3 on processor 19 (total = 1)
+Checking BARPA_ACCESS-CM2 on processor 20 (total = 1)
+Checking CCAM_ACCESS-CM2 on processor 21 (total = 1)
+Checking NARCliM2_UKESM1-0-LL_R5 on processor 22 (total = 1)
+Checking QldFCP2_MRI-ESM2-0 on processor 23 (total = 1)
+Checking NARCliM2_NorESM2-MM_R5 on processor 0 (total = 2)
+Checking NARCliM2_EC-Earth3-Veg_R5 on processor 1 (total = 2)
+Checking NARCliM2_ACCESS-ESM1-5_R3 on processor 2 (total = 2)
+Checking CCAM_CESM2 on processor 3 (total = 2)
+Checking NARCliM2_UKESM1-0-LL_R3 on processor 5 (total = 2)
+Checking NARCliM2_MPI-ESM1-2-HR_R3 on processor 6 (total = 2)
+Checking BARPA_EC-Earth3 on processor 4 (total = 2)
+Checking CCAM_EC-Earth3 on processor 8 (total = 2)
+Checking QldFCP2_NorESM2-MM on processor 14 (total = 2)
+Checking BARPA_MPI-ESM1-2-HR on processor 2 (total = 2)
+Checking QldFCP2_ACCESS-ESM1-5_oc_r40 on processor 6 (total = 2)
+Checking QldFCP2_CNRM-CM6-1-HR on processor 7 (total = 2)
+Complete: processor 18
+Checking QldFCP2_MPI-ESM1-2-LR on processor 11 (total = 2)
+Checking QldFCP2_NorESM2-MM_oc on processor 0 (total = 2)
+Complete: processor 23
+Complete: processor 20
+Checking QldFCP2_GISS-E2-1-G on processor 4 (total = 2)
+Checking BARPA_NorESM2-MM on processor 10 (total = 2)
+Checking BARPA_ACCESS-ESM1-5 on processor 1 (total = 2)
+Checking NARCliM2_MPI-ESM1-2-HR_R5 on processor 3 (total = 2)
+Complete: processor 17
+Checking CCAM_CMCC-ESM2 on processor 9 (total = 2)
+Complete: processor 11
+Complete: processor 10
+Complete: processor 4
+Complete: processor 8
+Complete: processor 2
+Complete: processor 7
+Complete: processor 9
+Complete: processor 1
+Complete: processor 14
+Complete: processor 15
+Complete: processor 3
+Complete: processor 22
+Checking QldFCP2_ACCESS-ESM1-5_oc_r20 on processor 13 (total = 2)
+Complete: processor 13
+Complete: processor 0
+Checking BARPA_CMCC-ESM2 on processor 12 (total = 2)
+Complete: processor 12
+Complete: processor 6
+Complete: processor 16
+Complete: processor 21
+Checking BARPA_CESM2 on processor 5 (total = 2)
+Complete: processor 5
+Complete: processor 19
+
+Parsing config file benchmarking.cfg...
+
+                              WetDays(RR1)/AGCDv1[92m Initialized[0m
+                                WetDays(RR1)/ERA5[92m Initialized[0m
+           HighestOneDayRainAmount(RX1day)/AGCDv1[92m Initialized[0m
+             HighestOneDayRainAmount(RX1day)/ERA5[92m Initialized[0m
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1[92m Initialized[0m
+     SimplePrecipitationIntensityIndex(SDII)/ERA5[92m Initialized[0m
+               TotalPrecipitation(PRCPTOT)/AGCDv1[92m Initialized[0m
+                 TotalPrecipitation(PRCPTOT)/ERA5[92m Initialized[0m
+            MaximumConsecutiveWetDays(CWD)/AGCDv1[92m Initialized[0m
+              MaximumConsecutiveWetDays(CWD)/ERA5[92m Initialized[0m
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1[92m Initialized[0m
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5[92m Initialized[0m
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1[92m Initialized[0m
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5[92m Initialized[0m
+         MeanofDailyMaximumTemperature(TX)/AGCDv1[92m Initialized[0m
+           MeanofDailyMaximumTemperature(TX)/ERA5[92m Initialized[0m
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1[92m Initialized[0m
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5[92m Initialized[0m
+
+Running model-confrontation pairs...
+
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:02
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:02
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:07
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:09
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:11
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:14
+                                WetDays(RR1)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:14
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:01:16
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:01:17
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:35
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:01:37
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:41
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:42
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:01:43
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:01:44
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:01:47
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:49
+                              WetDays(RR1)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:02:02
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:00
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:01
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:04
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:06
+                                WetDays(RR1)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:03
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:05
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:10
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:02:30
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:01:15
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:01:16
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:02:39
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:02:41
+                              WetDays(RR1)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:02:51
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:23
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:57
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:57
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:01:35
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:33
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:05
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:03:16
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:01:33
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:01:33
+                                WetDays(RR1)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:01
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:01
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:04
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:01:34
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:03
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:40
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:03:27
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:41
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:01:11
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:01:12
+                              WetDays(RR1)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:56
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:00
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:00
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:24
+                                WetDays(RR1)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:04
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:10
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:05
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:06
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:09
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:37
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:02:21
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:52
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:01:39
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:52
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:01:38
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:01:39
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:01:20
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:01:41
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:01:18
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:47
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:02:35
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:46
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:02:39
+                                WetDays(RR1)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:06
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:01:04
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:05
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:01:06
+                              WetDays(RR1)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:02:49
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:01:16
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:29
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:03
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:03
+                              WetDays(RR1)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:02:00
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:01:11
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:01:12
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:33
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:01:34
+                                WetDays(RR1)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:01:01
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:01:02
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:01:02
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:01:36
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:01:03
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:01:45
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:03:24
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:01:45
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:39
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:06
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:58
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:58
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:03:28
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:43
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:01:22
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:02:35
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:01:16
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:01:16
+                                WetDays(RR1)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:01:03
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:01:02
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:01:05
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:01:06
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:54
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:55
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:02:38
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:02:33
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:01:05
+                              WetDays(RR1)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:57
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:37
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:01:39
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:01:31
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:01:32
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:01:35
+                              WetDays(RR1)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:02:47
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:01:41
+                                WetDays(RR1)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:01:01
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:01:01
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:25
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:01:09
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:01:02
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:01:10
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:01:45
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:01:02
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:01:00
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:01:00
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:01:04
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:01:16
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:01:33
+                                WetDays(RR1)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:01:07
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:01:07
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:59
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:58
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:01:08
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:01:38
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:01:37
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:01:38
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:01:09
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:03:16
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:02:31
+                              WetDays(RR1)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:02:03
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:01:24
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:01:06
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:01:42
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:01:02
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:01:37
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:01:36
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:03:27
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:02:32
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:45
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:02:43
+                                WetDays(RR1)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:01:05
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:01:06
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:05
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:06
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:01:34
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:01:04
+                              WetDays(RR1)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:02:53
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:01:11
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:01:36
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:01:35
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:01:41
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:01:37
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:01:27
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:01:39
+                                WetDays(RR1)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:00
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:01
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:01:37
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:01:15
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:01:37
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:01:35
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:01
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:02
+                              WetDays(RR1)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:02:06
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:01:04
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:01:53
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:02:44
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:01:11
+                                WetDays(RR1)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:03
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:02
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:05
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:01:30
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:02:38
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:01:38
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:01:14
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:01:38
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:06
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:01:42
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:01:36
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:03:26
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:01:05
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:01:39
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:01:35
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:01:37
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:01:00
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:02:31
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:02:24
+                                WetDays(RR1)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:03
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:04
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:03:36
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:03
+                              WetDays(RR1)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:02:49
+                              WetDays(RR1)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:02:07
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:01:50
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:02
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:01:19
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:02
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:01:29
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:01:42
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:01:10
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:01:42
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:01:41
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:01:46
+                                WetDays(RR1)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:05
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:07
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:01:34
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:01:34
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:02:33
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:01:39
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:01:06
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:01:53
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:01:08
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:06
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:02:35
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:01:15
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:01:08
+                                WetDays(RR1)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:01:00
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:59
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:01:50
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:01:39
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:02:07
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:04
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:02:21
+                              WetDays(RR1)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:02:01
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:02:31
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:38
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:02
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:38
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:01:39
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:01:31
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:04
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:01:34
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:01:42
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:34
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:01:10
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:01:01
+                                WetDays(RR1)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:02
+                              WetDays(RR1)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:02:50
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:01
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:01:57
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:01:04
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:01:05
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:04
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:01:43
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:01:51
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:02:51
+                                WetDays(RR1)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:01:05
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:41
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:01:11
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:18
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:01:07
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:01:36
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:40
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:01:38
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:02:06
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:01:37
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:02:38
+                              WetDays(RR1)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:02:06
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:01:05
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:40
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:01:43
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:01:04
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:02:23
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:01:03
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:02:33
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:01:03
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:01:51
+                                WetDays(RR1)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:01:01
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:01:02
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:01:00
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:12
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:01:04
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:01:37
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:01:06
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:34
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:01:30
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:33
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:33
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:02
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:01:33
+                              WetDays(RR1)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:02:54
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:38
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:01:39
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:01:05
+                                WetDays(RR1)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:01:05
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:01:04
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:02:04
+                              WetDays(RR1)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:02:01
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:02:38
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:01:10
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:16
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:01:29
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:01:08
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:01:47
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:01:04
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:02:25
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:01:38
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:01:03
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:34
+                                WetDays(RR1)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:01:03
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:31
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:01:36
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:34
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:01:03
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:02:32
+                                WetDays(RR1)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:01:01
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:01:34
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:03:13
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:58
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:01:32
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:37
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:06
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:01:00
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:01:05
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:01:24
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:01:04
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:02:02
+                                WetDays(RR1)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:01:06
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:01:50
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:01:09
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:01:41
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:40
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:39
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:39
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:01:08
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:01:42
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:17
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:01:42
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:01:08
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:02:33
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:01:02
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:01:22
+                                WetDays(RR1)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:00:57
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:01:49
+                              WetDays(RR1)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:03:42
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:02:37
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:01:06
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:02:36
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:01:03
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:01:03
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:01:05
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:02:47
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:02:44
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:01:07
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:02:36
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:01:06
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:01:56
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:01:04
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:01:31
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:29
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:43
+                                WetDays(RR1)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:01:04
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:01:35
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:01:37
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:01:01
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:01:27
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:03:28
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:01:02
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:01:03
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:01:00
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:41
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:01:09
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:01:02
+                                WetDays(RR1)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:01:01
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:02:31
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:01:38
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:01:34
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:31
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:01:02
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:01:13
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:01:02
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:42
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:01:20
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:55
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:01:12
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:02:42
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:01:47
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:01:06
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:01:46
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:02:41
+                                WetDays(RR1)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:01:00
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:02:26
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:01:20
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:02:44
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:02:48
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:01:50
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:01:01
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:01:02
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:01:02
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:01:05
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:01:32
+                              WetDays(RR1)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:03:45
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:01:29
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:01:10
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:01:25
+                                WetDays(RR1)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:01:05
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:45
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:01:36
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:01:25
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:01:03
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:02:29
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:01:40
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:01:04
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:01:04
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:02:00
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:02:29
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:01:06
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:03:38
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:01:07
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:01:45
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:01:23
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:02:33
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:01:32
+                                WetDays(RR1)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:01:21
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:01:22
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:01
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:02:36
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:59
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:02:30
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:01:20
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:02:41
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:38
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:44
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:01:29
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:02:52
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:11
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:41
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:01:31
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:02:01
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:07
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:08
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:01:34
+                                WetDays(RR1)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:01:26
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:01:26
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:01:32
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:01:45
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:01:36
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:01:15
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:01:23
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:02:31
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:04
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:01:28
+                              WetDays(RR1)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:03:43
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:37
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:03:07
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:02
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:03
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:44
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:01:26
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:37
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:02:35
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:02:35
+                                WetDays(RR1)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:01:22
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:01:23
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:01:30
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:01:14
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:01:32
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:09
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:03:28
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:01:39
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:57
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:01:23
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:01:46
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:01
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:02
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:02:46
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:01:29
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:35
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:01:24
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:34
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:01:06
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:01:46
+                                WetDays(RR1)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:01:24
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:01:28
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:13
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:01:21
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:02:29
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:01:06
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:01:34
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:01:06
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:01:21
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:01:28
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:01:29
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:02:21
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:01:07
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:26
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:02:05
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:02:35
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:03:07
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:01:11
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:05
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:29
+                              WetDays(RR1)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:03:24
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:06
+                                WetDays(RR1)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:01:24
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:01:22
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:01:19
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:01:43
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:01:17
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:02:23
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:30
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:01:21
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:02:53
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:01:23
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:59
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:01:01
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:17
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:59
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:01:06
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:02:30
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:23
+                                WetDays(RR1)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:01:22
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:01:21
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:57
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:01:49
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:01:15
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:02:09
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:02
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:01:21
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:53
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:29
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:01:01
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:01:42
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:59
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:01:05
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:02:00
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:02:24
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:56
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:51
+                                WetDays(RR1)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:01:16
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:02:18
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:02
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:53
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:02:58
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:01:16
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:54
+                              WetDays(RR1)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:02:56
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:55
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:22
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:50
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:01:02
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:54
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:19
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:01:40
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:02:49
+                                WetDays(RR1)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:47
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:01:30
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:02:12
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:53
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:59
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:02:04
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:55
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:54
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:47
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:01:50
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:51
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:01:11
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:56
+                                WetDays(RR1)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:43
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:02:06
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:18
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:15
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:52
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:43
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:01:31
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:03
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:01:20
+                                WetDays(RR1)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:41
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:51
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:02:16
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:59
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:49
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:02:25
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:01:49
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:01:20
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:55
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:59
+                                WetDays(RR1)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:36
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:16
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:59
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:48
+                              WetDays(RR1)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:02:54
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:45
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:02:39
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:01:57
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:07
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:01:13
+                                WetDays(RR1)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:38
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:02:24
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:01:02
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:58
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:47
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:45
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:02
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:01:35
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:02
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:01:09
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:01:13
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:02:10
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:01:57
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:43
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:54
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:49
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:42
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:01:03
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:01:32
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:02
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:44
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:44
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:02:03
+                              WetDays(RR1)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:02:23
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:01:08
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:57
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:01:13
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:44
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:44
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:01:00
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:47
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:02
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:01:53
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:43
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:54
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:02:07
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:01:04
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:01:31
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:01:14
+                              WetDays(RR1)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:01:23
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:49
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:41
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:01:03
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:59
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:55
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:02:01
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:01:06
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:41
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:01:10
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:01:47
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:01:00
+                              WetDays(RR1)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:01:16
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:01:24
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:55
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:39
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:01:55
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:01:01
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:50
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:57
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:56
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:54
+                              WetDays(RR1)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:01:02
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:59
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:48
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:54
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:56
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:54
+                              WetDays(RR1)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:01:01
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:59
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:53
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:57
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:55
+                              WetDays(RR1)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:01:00
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:53
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:01:00
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:55
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:57
+                              WetDays(RR1)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:01:00
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:54
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:57
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:54
+                              WetDays(RR1)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:01:00
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:52
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:57
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:54
+                              WetDays(RR1)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:01:00
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:52
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:54
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:52
+                              WetDays(RR1)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:01:01
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:51
+                              WetDays(RR1)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:58
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:51
+                              WetDays(RR1)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:58
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:50
+                              WetDays(RR1)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:57
+                              WetDays(RR1)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:55
+                              WetDays(RR1)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:55
+                              WetDays(RR1)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:55
+
+Completed in  1:00:43
+
+[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0mChecking CCAM_ACCESS-CM2 on processor 21 (total = 1)
+Checking NARCliM2_NorESM2-MM_R5 on processor 0 (total = 2)
+Checking NARCliM2_EC-Earth3-Veg_R5 on processor 1 (total = 2)
+Checking NARCliM2_ACCESS-ESM1-5_R3 on processor 2 (total = 2)
+Checking CCAM_CESM2 on processor 3 (total = 2)
+Checking BARPA_EC-Earth3 on processor 4 (total = 2)
+Checking NARCliM2_UKESM1-0-LL_R3 on processor 5 (total = 2)
+Checking NARCliM2_MPI-ESM1-2-HR_R3 on processor 6 (total = 2)
+Checking CCAM_CNRM-ESM2-1 on processor 7 (total = 2)
+Checking QldFCP2_CMCC-ESM2 on processor 8 (total = 2)
+Checking NARCliM2_NorESM2-MM_R3 on processor 9 (total = 2)
+Checking QldFCP2_ACCESS-CM2 on processor 10 (total = 2)
+Checking CCAM_NorESM2-MM on processor 11 (total = 2)
+Checking CCAM_ACCESS-ESM1-5 on processor 12 (total = 2)
+Checking QldFCP2_ACCESS-ESM1-5_r6 on processor 13 (total = 2)
+Checking QldFCP2_FGOALS-g3 on processor 14 (total = 2)
+Checking NARCliM2_ACCESS-ESM1-5_R5 on processor 15 (total = 1)
+Checking QldFCP2_GFDL-ESM4 on processor 16 (total = 1)
+Checking QldFCP2_EC-Earth3 on processor 17 (total = 1)
+Checking QldFCP2_CNRM-CM6-1-HR_oc on processor 18 (total = 1)
+Checking NARCliM2_EC-Earth3-Veg_R3 on processor 19 (total = 1)
+Checking BARPA_ACCESS-CM2 on processor 20 (total = 1)
+Checking NARCliM2_UKESM1-0-LL_R5 on processor 22 (total = 1)
+Checking QldFCP2_MRI-ESM2-0 on processor 23 (total = 1)
+Checking NARCliM2_MPI-ESM1-2-HR_R5 on processor 3 (total = 2)
+Complete: processor 18
+Complete: processor 19
+Checking BARPA_CESM2 on processor 5 (total = 2)
+Checking QldFCP2_NorESM2-MM_oc on processor 0 (total = 2)
+Complete: processor 3
+Complete: processor 15
+Checking QldFCP2_GISS-E2-1-G on processor 4 (total = 2)
+Complete: processor 4
+Checking BARPA_CMCC-ESM2 on processor 12 (total = 2)
+Complete: processor 16
+Complete: processor 12
+Checking BARPA_ACCESS-ESM1-5 on processor 1 (total = 2)
+Checking CCAM_CMCC-ESM2 on processor 9 (total = 2)
+Complete: processor 22
+Complete: processor 23
+Checking QldFCP2_ACCESS-ESM1-5_oc_r20 on processor 13 (total = 2)
+Checking QldFCP2_NorESM2-MM on processor 14 (total = 2)
+Checking QldFCP2_CNRM-CM6-1-HR on processor 7 (total = 2)
+Complete: processor 17
+Checking CCAM_EC-Earth3 on processor 8 (total = 2)
+Complete: processor 8
+Complete: processor 21
+Complete: processor 5
+Checking QldFCP2_ACCESS-ESM1-5_oc_r40 on processor 6 (total = 2)
+Complete: processor 6
+Complete: processor 20
+Checking QldFCP2_MPI-ESM1-2-LR on processor 11 (total = 2)
+Complete: processor 13
+Complete: processor 11
+Complete: processor 9
+Complete: processor 7
+Complete: processor 0
+Complete: processor 14
+Checking BARPA_MPI-ESM1-2-HR on processor 2 (total = 2)
+Complete: processor 1
+Checking BARPA_NorESM2-MM on processor 10 (total = 2)
+Complete: processor 10
+Complete: processor 2
+
+Parsing config file benchmarking.cfg...
+
+                              WetDays(RR1)/AGCDv1[92m Initialized[0m
+                                WetDays(RR1)/ERA5[92m Initialized[0m
+           HighestOneDayRainAmount(RX1day)/AGCDv1[92m Initialized[0m
+             HighestOneDayRainAmount(RX1day)/ERA5[92m Initialized[0m
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1[92m Initialized[0m
+     SimplePrecipitationIntensityIndex(SDII)/ERA5[92m Initialized[0m
+               TotalPrecipitation(PRCPTOT)/AGCDv1[92m Initialized[0m
+                 TotalPrecipitation(PRCPTOT)/ERA5[92m Initialized[0m
+            MaximumConsecutiveWetDays(CWD)/AGCDv1[92m Initialized[0m
+              MaximumConsecutiveWetDays(CWD)/ERA5[92m Initialized[0m
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1[92m Initialized[0m
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5[92m Initialized[0m
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1[92m Initialized[0m
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5[92m Initialized[0m
+         MeanofDailyMaximumTemperature(TX)/AGCDv1[92m Initialized[0m
+           MeanofDailyMaximumTemperature(TX)/ERA5[92m Initialized[0m
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1[92m Initialized[0m
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5[92m Initialized[0m
+
+Finishing post-processing which requires collectives...
+
+                              WetDays(RR1)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:37 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:36 (4/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:31 (7/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:34 (10/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:31 (11/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:31 (15/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:31 (17/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:31 (3/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:36 (2/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:36 (16/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:35 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:36 (6/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:36 (12/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:36 (8/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:31 (9/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:32 (13/24)
+                                WetDays(RR1)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:32 (1/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_ACCESS-CM2     [92mCompleted[0m  0:00:31 (5/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:23 (4/24)
+                              WetDays(RR1)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:24 (0/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:23 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:23 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:23 (11/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:23 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:23 (17/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:24 (10/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:24 (2/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:24 (16/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:24 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:24 (6/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:23 (9/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:24 (8/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:23 (13/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:24 (12/24)
+                                WetDays(RR1)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:23 (1/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_ACCESS-ESM1-5  [92mCompleted[0m  0:00:23 (5/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:00:23 (7/24)
+                              WetDays(RR1)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:00:23 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:00:23 (4/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:00:23 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:00:23 (11/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:00:23 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:00:23 (17/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:00:23 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:00:23 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:00:23 (6/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:00:24 (2/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:00:24 (16/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:00:23 (9/24)
+                                WetDays(RR1)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:00:23 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:00:23 (13/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_CESM2          [92mCompleted[0m  0:00:23 (5/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:00:24 (8/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_CESM2          [92mCompleted[0m  0:00:24 (12/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:22 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:22 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:22 (11/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:23 (3/24)
+                              WetDays(RR1)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:23 (0/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:23 (17/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:24 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:23 (10/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:23 (9/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:23 (6/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:24 (14/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:24 (2/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:24 (16/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:23 (13/24)
+                                WetDays(RR1)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:23 (1/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:23 (5/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:24 (8/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_CMCC-ESM2      [92mCompleted[0m  0:00:24 (12/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:00:22 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:00:22 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:00:22 (11/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:00:23 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:00:23 (17/24)
+                              WetDays(RR1)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:00:23 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:00:23 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:00:23 (10/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:00:23 (9/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:00:23 (6/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:00:23 (13/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:00:23 (14/24)
+                                WetDays(RR1)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:00:23 (1/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_EC-Earth3      [92mCompleted[0m  0:00:23 (5/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:00:24 (2/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:00:24 (16/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:00:24 (12/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_EC-Earth3      [92mCompleted[0m  0:00:24 (8/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:22 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:22 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:22 (11/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:23 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:23 (17/24)
+                              WetDays(RR1)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:23 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:23 (4/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:23 (9/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:23 (10/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:23 (13/24)
+                                WetDays(RR1)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:23 (1/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:23 (6/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:23 (14/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:23 (5/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:24 (16/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:24 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:24 (12/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_MPI-ESM1-2-HR  [92mCompleted[0m  0:00:24 (8/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:22 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:22 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:23 (11/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:23 (17/24)
+                              WetDays(RR1)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:23 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:23 (4/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:23 (9/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:23 (10/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:23 (13/24)
+                                WetDays(RR1)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:23 (1/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:23 (6/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:23 (14/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:23 (5/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:23 (16/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:24 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:24 (12/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 BARPA_NorESM2-MM     [92mCompleted[0m  0:00:24 (8/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:29 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:29 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:29 (11/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:29 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:29 (17/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:29 (9/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:30 (13/24)
+                                WetDays(RR1)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:30 (1/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:30 (5/24)
+                              WetDays(RR1)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:34 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:34 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:33 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:33 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:34 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:34 (16/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:35 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:33 (12/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_ACCESS-CM2      [92mCompleted[0m  0:00:35 (8/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:25 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:25 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:25 (11/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:25 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:25 (17/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:26 (9/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:26 (13/24)
+                                WetDays(RR1)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:26 (1/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:26 (5/24)
+                              WetDays(RR1)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:30 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:30 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:30 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:30 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:30 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:30 (16/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:30 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:30 (12/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_ACCESS-ESM1-5   [92mCompleted[0m  0:00:30 (8/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:00:25 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:00:25 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:00:25 (11/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:00:25 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:00:26 (17/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:00:26 (9/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:00:26 (13/24)
+                                WetDays(RR1)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:00:26 (1/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_CESM2           [92mCompleted[0m  0:00:26 (5/24)
+                              WetDays(RR1)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:00:30 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:00:30 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:00:30 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:00:30 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:00:30 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:00:30 (16/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:00:30 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:00:30 (12/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:25 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:25 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:25 (11/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_CESM2           [92mCompleted[0m  0:00:30 (8/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:25 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:25 (17/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:26 (9/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:26 (13/24)
+                                WetDays(RR1)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:26 (1/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:26 (5/24)
+                              WetDays(RR1)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:30 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:30 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:30 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:30 (14/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:25 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:25 (15/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:30 (6/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:25 (11/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:30 (16/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:25 (3/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:30 (2/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:26 (17/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:30 (12/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_CMCC-ESM2       [92mCompleted[0m  0:00:30 (8/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:26 (9/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:26 (13/24)
+                                WetDays(RR1)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:26 (1/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:26 (5/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:00:25 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:00:25 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:00:25 (11/24)
+                              WetDays(RR1)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:30 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:30 (4/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:00:26 (3/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:30 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:30 (14/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:00:26 (17/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:30 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:30 (16/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:30 (2/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:00:26 (9/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:30 (12/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:00:26 (13/24)
+                                WetDays(RR1)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:00:26 (1/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_CNRM-ESM2-1     [92mCompleted[0m  0:00:30 (8/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_EC-Earth3       [92mCompleted[0m  0:00:26 (5/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:28 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:28 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:28 (11/24)
+                              WetDays(RR1)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:00:30 (0/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:29 (3/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:00:30 (4/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:29 (17/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:00:30 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:00:30 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:00:30 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:00:30 (16/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:29 (9/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:00:30 (2/24)
+                                WetDays(RR1)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:29 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:29 (13/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:00:30 (12/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:29 (5/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_EC-Earth3       [92mCompleted[0m  0:00:30 (8/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:23 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:23 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:23 (11/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:23 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:23 (17/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:23 (9/24)
+                                WetDays(RR1)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:23 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:23 (13/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:23 (5/24)
+                              WetDays(RR1)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:34 (0/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:31 (10/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:32 (4/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:33 (14/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:31 (16/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:34 (6/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:34 (2/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:21 (7/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:33 (12/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:22 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:21 (11/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 CCAM_NorESM2-MM      [92mCompleted[0m  0:00:34 (8/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:22 (17/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:22 (9/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:22 (13/24)
+                                WetDays(RR1)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:21 (10/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:22 (4/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:22 (5/24)
+                              WetDays(RR1)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:23 (0/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:23 (14/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:22 (16/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:23 (6/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:21 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:22 (11/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:23 (12/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:24 (2/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R3 [92mCompleted[0m  0:00:24 (8/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:22 (9/24)
+                                WetDays(RR1)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:22 (13/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:21 (10/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:21 (4/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:22 (5/24)
+                              WetDays(RR1)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:21 (0/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:21 (14/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:22 (16/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:22 (6/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:21 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:22 (11/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:22 (12/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:22 (2/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_ACCESS-ESM1-5_R5 [92mCompleted[0m  0:00:22 (8/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:22 (9/24)
+                                WetDays(RR1)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:22 (13/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:21 (10/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:21 (4/24)
+                              WetDays(RR1)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:21 (0/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:22 (5/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:21 (14/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:22 (16/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:21 (6/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:21 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:22 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:22 (11/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:22 (12/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_EC-Earth3-Veg_R3 [92mCompleted[0m  0:00:22 (8/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:22 (9/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:21 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:21 (10/24)
+                                WetDays(RR1)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:22 (13/24)
+                              WetDays(RR1)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:21 (0/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:22 (5/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:21 (14/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:22 (16/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:21 (6/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:21 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:22 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:21 (11/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:22 (12/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:22 (2/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_EC-Earth3-Veg_R5 [92mCompleted[0m  0:00:22 (8/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:21 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:21 (10/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:22 (9/24)
+                              WetDays(RR1)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:21 (0/24)
+                                WetDays(RR1)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:22 (13/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:21 (14/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:22 (5/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:22 (16/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:21 (6/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:21 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:21 (11/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:22 (12/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R3 [92mCompleted[0m  0:00:22 (8/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:21 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:21 (10/24)
+                              WetDays(RR1)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:21 (0/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:22 (9/24)
+                                WetDays(RR1)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:22 (13/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:21 (14/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:22 (5/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:22 (16/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:21 (6/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:21 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:22 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:22 (11/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:22 (12/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_MPI-ESM1-2-HR_R5 [92mCompleted[0m  0:00:22 (8/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:21 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:21 (10/24)
+                              WetDays(RR1)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:21 (0/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:22 (9/24)
+                                WetDays(RR1)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:22 (13/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:21 (14/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:22 (5/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:22 (16/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:21 (6/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:21 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:21 (11/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:22 (12/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_NorESM2-MM_R3 [92mCompleted[0m  0:00:22 (8/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:21 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:21 (10/24)
+                              WetDays(RR1)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:21 (0/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:22 (9/24)
+                                WetDays(RR1)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:22 (13/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:21 (14/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:22 (16/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:22 (5/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:21 (6/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:21 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:22 (11/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:22 (12/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_NorESM2-MM_R5 [92mCompleted[0m  0:00:22 (8/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:21 (4/24)
+                              WetDays(RR1)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:21 (0/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:21 (10/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:22 (9/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:21 (14/24)
+                                WetDays(RR1)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:22 (13/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:22 (16/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:21 (6/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:22 (5/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:25 (7/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:22 (12/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:25 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:25 (11/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_UKESM1-0-LL_R3 [92mCompleted[0m  0:00:22 (8/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:25 (3/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:21 (4/24)
+                              WetDays(RR1)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:21 (0/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:25 (17/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:21 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:21 (14/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:22 (16/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:21 (6/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:26 (9/24)
+                                WetDays(RR1)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:26 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:26 (13/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:26 (5/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:21 (7/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:22 (12/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:21 (11/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 NARCliM2_UKESM1-0-LL_R5 [92mCompleted[0m  0:00:22 (8/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:22 (17/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:24 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:25 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:25 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:25 (14/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:22 (9/24)
+                                WetDays(RR1)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:22 (13/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:24 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:26 (16/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:22 (5/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:22 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:22 (11/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:25 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:25 (12/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_ACCESS-CM2   [92mCompleted[0m  0:00:25 (8/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:21 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:21 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:21 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:21 (14/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:22 (9/24)
+                                WetDays(RR1)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:22 (1/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:21 (6/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:22 (13/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:22 (16/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:22 (5/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:21 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:21 (11/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:22 (12/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r20 [92mCompleted[0m  0:00:22 (8/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:21 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:21 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:21 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:21 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:21 (6/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:22 (9/24)
+                                WetDays(RR1)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:22 (13/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:22 (16/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:21 (7/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:22 (5/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:21 (11/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:22 (12/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:22 (3/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:22 (17/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:21 (0/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_ACCESS-ESM1-5_oc_r40 [92mCompleted[0m  0:00:22 (8/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:21 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:21 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:21 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:21 (6/24)
+                                WetDays(RR1)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:22 (1/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:22 (9/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:22 (13/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:22 (16/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:22 (7/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:22 (5/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:22 (11/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:22 (12/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:22 (3/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:21 (0/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_ACCESS-ESM1-5_r6 [92mCompleted[0m  0:00:22 (8/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:21 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:21 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:21 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:21 (6/24)
+                                WetDays(RR1)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:22 (1/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:22 (9/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:22 (16/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:22 (13/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:21 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:22 (15/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:22 (5/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:21 (11/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:22 (12/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:22 (3/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:21 (0/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:22 (17/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:21 (4/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_CMCC-ESM2    [92mCompleted[0m  0:00:22 (8/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:22 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:21 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:21 (6/24)
+                                WetDays(RR1)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:22 (1/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:22 (16/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:22 (9/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:22 (13/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:21 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:21 (11/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:22 (5/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:22 (12/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:22 (3/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:21 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:21 (4/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_CNRM-CM6-1-HR [92mCompleted[0m  0:00:22 (8/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:21 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:21 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:21 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:22 (16/24)
+                                WetDays(RR1)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:22 (1/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:22 (9/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:22 (13/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:22 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:22 (11/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:22 (5/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:22 (12/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:21 (0/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:22 (3/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:21 (4/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_CNRM-CM6-1-HR_oc [92mCompleted[0m  0:00:22 (8/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:21 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:21 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:21 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:22 (16/24)
+                                WetDays(RR1)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:22 (1/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:22 (9/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:22 (13/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:21 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:22 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:21 (11/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:22 (5/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:22 (12/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:21 (0/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:22 (3/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:21 (4/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:22 (17/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:21 (10/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_EC-Earth3    [92mCompleted[0m  0:00:22 (8/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:21 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:21 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:22 (16/24)
+                                WetDays(RR1)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:22 (1/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:21 (7/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:22 (9/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:22 (13/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:21 (11/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:22 (5/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:22 (12/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:21 (0/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:22 (3/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:21 (4/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:22 (17/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:21 (10/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_FGOALS-g3    [92mCompleted[0m  0:00:22 (8/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:21 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:21 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:22 (16/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:22 (7/24)
+                                WetDays(RR1)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:22 (13/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:22 (9/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:22 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:22 (11/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:22 (5/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:22 (12/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:21 (0/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:22 (3/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:21 (4/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:22 (17/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:21 (10/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_GFDL-ESM4    [92mCompleted[0m  0:00:22 (8/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:21 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:21 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:22 (16/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:21 (7/24)
+                                WetDays(RR1)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:22 (13/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:22 (9/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:22 (15/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:22 (11/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:22 (5/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:22 (12/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:21 (0/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:22 (3/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:21 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:21 (10/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_GISS-E2-1-G  [92mCompleted[0m  0:00:22 (8/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:21 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:21 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:22 (16/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:21 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:21 (15/24)
+                                WetDays(RR1)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:22 (13/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:22 (9/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:21 (11/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:22 (2/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:22 (5/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:22 (12/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:21 (0/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:21 (4/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:22 (3/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:21 (10/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:22 (17/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_MPI-ESM1-2-LR [92mCompleted[0m  0:00:22 (8/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:21 (14/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:21 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:22 (16/24)
+                 TotalPrecipitation(PRCPTOT)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:22 (7/24)
+           MeanofDailyMaximumTemperature(TX)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:21 (15/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:22 (13/24)
+                                WetDays(RR1)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:22 (1/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:22 (9/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:22 (11/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:21 (0/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:22 (2/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:22 (12/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:22 (5/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:22 (4/24)
+             HighestOneDayRainAmount(RX1day)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:22 (3/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:21 (10/24)
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:22 (17/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:21 (14/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_MRI-ESM2-0   [92mCompleted[0m  0:00:22 (8/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:21 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:21 (16/24)
+                                WetDays(RR1)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:22 (1/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:22 (13/24)
+              MaximumConsecutiveWetDays(CWD)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:22 (9/24)
+                              WetDays(RR1)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:21 (0/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:22 (12/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:22 (2/24)
+     SimplePrecipitationIntensityIndex(SDII)/ERA5 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:22 (5/24)
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:21 (4/24)
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:21 (10/24)
+         MeanofDailyMaximumTemperature(TX)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:21 (14/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_NorESM2-MM   [92mCompleted[0m  0:00:22 (8/24)
+               TotalPrecipitation(PRCPTOT)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:21 (6/24)
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:21 (16/24)
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:21 (12/24)
+           HighestOneDayRainAmount(RX1day)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:22 (2/24)
+            MaximumConsecutiveWetDays(CWD)/AGCDv1 QldFCP2_NorESM2-MM_oc [92mCompleted[0m  0:00:21 (8/24)
+
+Completed in  0:18:56
+
+Checking NARCliM2_NorESM2-MM_R5 on processor 0 (total = 39)
+Checking NARCliM2_EC-Earth3-Veg_R5 on processor 0 (total = 39)
+Checking NARCliM2_ACCESS-ESM1-5_R3 on processor 0 (total = 39)
+Checking CCAM_CESM2 on processor 0 (total = 39)
+Checking BARPA_EC-Earth3 on processor 0 (total = 39)
+Checking NARCliM2_UKESM1-0-LL_R3 on processor 0 (total = 39)
+Checking NARCliM2_MPI-ESM1-2-HR_R3 on processor 0 (total = 39)
+Checking CCAM_CNRM-ESM2-1 on processor 0 (total = 39)
+Checking QldFCP2_CMCC-ESM2 on processor 0 (total = 39)
+Checking NARCliM2_NorESM2-MM_R3 on processor 0 (total = 39)
+Checking QldFCP2_ACCESS-CM2 on processor 0 (total = 39)
+Checking CCAM_NorESM2-MM on processor 0 (total = 39)
+Checking CCAM_ACCESS-ESM1-5 on processor 0 (total = 39)
+Checking QldFCP2_ACCESS-ESM1-5_r6 on processor 0 (total = 39)
+Checking QldFCP2_FGOALS-g3 on processor 0 (total = 39)
+Checking NARCliM2_ACCESS-ESM1-5_R5 on processor 0 (total = 39)
+Checking QldFCP2_GFDL-ESM4 on processor 0 (total = 39)
+Checking QldFCP2_EC-Earth3 on processor 0 (total = 39)
+Checking QldFCP2_CNRM-CM6-1-HR_oc on processor 0 (total = 39)
+Checking NARCliM2_EC-Earth3-Veg_R3 on processor 0 (total = 39)
+Checking BARPA_ACCESS-CM2 on processor 0 (total = 39)
+Checking CCAM_ACCESS-CM2 on processor 0 (total = 39)
+Checking NARCliM2_UKESM1-0-LL_R5 on processor 0 (total = 39)
+Checking QldFCP2_MRI-ESM2-0 on processor 0 (total = 39)
+Checking QldFCP2_NorESM2-MM_oc on processor 0 (total = 39)
+Checking BARPA_ACCESS-ESM1-5 on processor 0 (total = 39)
+Checking BARPA_MPI-ESM1-2-HR on processor 0 (total = 39)
+Checking NARCliM2_MPI-ESM1-2-HR_R5 on processor 0 (total = 39)
+Checking QldFCP2_GISS-E2-1-G on processor 0 (total = 39)
+Checking BARPA_CESM2 on processor 0 (total = 39)
+Checking QldFCP2_ACCESS-ESM1-5_oc_r40 on processor 0 (total = 39)
+Checking QldFCP2_CNRM-CM6-1-HR on processor 0 (total = 39)
+Checking CCAM_EC-Earth3 on processor 0 (total = 39)
+Checking CCAM_CMCC-ESM2 on processor 0 (total = 39)
+Checking BARPA_NorESM2-MM on processor 0 (total = 39)
+Checking QldFCP2_MPI-ESM1-2-LR on processor 0 (total = 39)
+Checking BARPA_CMCC-ESM2 on processor 0 (total = 39)
+Checking QldFCP2_ACCESS-ESM1-5_oc_r20 on processor 0 (total = 39)
+Checking QldFCP2_NorESM2-MM on processor 0 (total = 39)
+Complete: processor 0
+
+Parsing config file benchmarking.cfg...
+
+                              WetDays(RR1)/AGCDv1[92m Initialized[0m
+                                WetDays(RR1)/ERA5[92m Initialized[0m
+           HighestOneDayRainAmount(RX1day)/AGCDv1[92m Initialized[0m
+             HighestOneDayRainAmount(RX1day)/ERA5[92m Initialized[0m
+    SimplePrecipitationIntensityIndex(SDII)/AGCDv1[92m Initialized[0m
+     SimplePrecipitationIntensityIndex(SDII)/ERA5[92m Initialized[0m
+               TotalPrecipitation(PRCPTOT)/AGCDv1[92m Initialized[0m
+                 TotalPrecipitation(PRCPTOT)/ERA5[92m Initialized[0m
+            MaximumConsecutiveWetDays(CWD)/AGCDv1[92m Initialized[0m
+              MaximumConsecutiveWetDays(CWD)/ERA5[92m Initialized[0m
+    MaximumvalueofDailyMaximumTemperature(TXx)/AGCDv1[92m Initialized[0m
+    MaximumvalueofDailyMaximumTemperature(TXx)/ERA5[92m Initialized[0m
+    MaximumvalueofDailyMinimumTemperature(TNx)/AGCDv1[92m Initialized[0m
+    MaximumvalueofDailyMinimumTemperature(TNx)/ERA5[92m Initialized[0m
+         MeanofDailyMaximumTemperature(TX)/AGCDv1[92m Initialized[0m
+           MeanofDailyMaximumTemperature(TX)/ERA5[92m Initialized[0m
+    MeanvalueofDailyMinimumTemperature(TN)/AGCDv1[92m Initialized[0m
+      MeanvalueofDailyMinimumTemperature(TN)/ERA5[92m Initialized[0m
+
+Building Scorecard
+
+
+Completed in  0:02:59
+
